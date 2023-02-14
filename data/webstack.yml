@@ -124,7 +124,17 @@
           logo: 百度贴吧.jpg
           url: ttps://tieba.baidu.com/index.html
           description: 百度贴吧。
-   
+
+- taxonomy: 刷机
+  icon: far fa-folder-open fa-lg
+  list:
+    - term: 安卓系统
+      links:
+        - title: LineageOS
+          logo: https://download.lineageos.org/static/logo.png
+          url: https://download.lineageos.org/
+          description: LineageOS Downloads
+
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
