@@ -1,6 +1,6 @@
 baseURL               = "http://lipacn.tk"
 languageCode          = "zh-CN"
-title                 = "网址导航"
+title                 = "Website navigation"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -9,14 +9,14 @@ publishDir            = "docs"
 
 
 [params]
-    author        = "txia"
-    description   = "网址导航"
+    author        = "Tony"
+    description   = "Website navigation"
     siteurl       = "./"
     upload        = "#"  # 左侧导航栏的"网站提交"
     about         = "https://summer-88.github.io/about/"   # 左侧导航栏的"关于导航"页面(./about)
     repository    = ""  
     enablePreLoad = true		    		           # 网站完全打开前预加载动画
-    textPreLoad   = "网址导航" 		           # 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "Website navigation" 		           # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false                                          # 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			   # 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"             # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
