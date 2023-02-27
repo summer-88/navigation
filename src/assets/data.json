@@ -157,6 +157,12 @@
                 "logo": "https://img.alicdn.com/tfs/TB1hgJpHAPoK1RjSZKbXXX1IXXa-64-64.png",
                 "title": "Nacos-Prod",
                 "desc": "Production Nacos"
+            },
+            {
+                "url": "https://grafana.lipalaterapis.com/",
+                "logo": "https://grafana.com/static/img/menu/grafana2.svg",
+                "title": "Grafana-Prod",
+                "desc": "Production Grafana"
             }
         ]
     }
