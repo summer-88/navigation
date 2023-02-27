@@ -28,6 +28,18 @@
                 "logo": "https://uploads-ssl.webflow.com/622f09894fc230ad07de84a9/622f5a87c640c74632704784_Favicon_32.svg",
                 "title": "BVN API",
                 "desc": "HyperVerge Bank Verification (BVN) API"
+            },
+            {
+                "url": "https://developer.hyperverge.co/global/kyc/results-webhook",
+                "logo": "https://uploads-ssl.webflow.com/622f09894fc230ad07de84a9/622f5a87c640c74632704784_Favicon_32.svg",
+                "title": "Results Webhook",
+                "desc": "HyperVerge Results Webhook API"
+            },
+            {
+                "url": "https://developer.hyperverge.co/global/kyc/results-api",
+                "logo": "https://uploads-ssl.webflow.com/622f09894fc230ad07de84a9/622f5a87c640c74632704784_Favicon_32.svg",
+                "title": "Results API",
+                "desc": "HyperVerge Results API"
             }
         ]
     },
