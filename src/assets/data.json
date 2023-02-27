@@ -1,20 +1,63 @@
 [
     {
-        "name": "常用",
-        "en_name": "Recommended",
+        "name": "开发业务",
+        "en_name": "Business(Staging)",
         "icon": "linecons-star",
         "web": [
             {
-                "url": "https://jenkinsdev.lipalaterapis.com/",
-                "logo": "https://www.jenkins.io/favicon.ico",
-                "title": "Jenkins-dev",
-                "desc": "Staging jenkins"
+                "url": "https://demo.irl.musoniservices.com/odysseycapital/index.php/Loan/Builder",
+                "logo": "https://musoni.co.ke/images/icons/Musoni-Favicon.jpg",
+                "title": "Musoni-Dev",
+                "desc": "Staging Musoni"
             },
             {
-                "url": "https://jenkins.lipalaterapis.com/",
-                "logo": "https://www.jenkins.io/favicon.ico",
-                "title": "Jenkins-Prod",
-                "desc": "Production jenkins"
+                "url": "https://bpdev.lipalaterapis.com/",
+                "logo": "https://cdn.yellowmessenger.com/2jRrcRy7493T1669699575687.png",
+                "title": "Branch platform-Dev",
+                "desc": "Staging Branch platform"
+            },
+            {
+                "url": "https://hpdev.lipalaterapis.com/",
+                "logo": "https://cdn.yellowmessenger.com/2jRrcRy7493T1669699575687.png",
+                "title": "HQ platform-Dev",
+                "desc": "Staging headquarters platform"
+            },
+            {
+                "url": "https://core-v2-multi-country.herokuapp.com/",
+                "logo": "https://cdn.yellowmessenger.com/2jRrcRy7493T1669699575687.png",
+                "title": "CORE-Staging",
+                "desc": "Staging CORE"
+            },
+            {
+                "url": "https://lipalater.lendiron-staging.com/",
+                "logo": "https://lendiron.com/wp-content/uploads/2021/10/logo@2x.png",
+                "title": "Lendiron-Staging",
+                "desc": "Staging Lendiron"
+            }
+        ]
+    },
+    {
+        "name": "生产业务",
+        "en_name": "Business(Production)",
+        "icon": "linecons-lightbulb",
+        "web": [
+            {
+                "url": "https://live.musonisystem.com/odysseycapital/index.php/Loan/Builder",
+                "logo": "https://musoni.co.ke/images/icons/Musoni-Favicon.jpg",
+                "title": "Musoni-Prod",
+                "desc": "Production Musoni"
+            },
+            {
+                "url": "https://bp.lipalaterapis.com/",
+                "logo": "https://cdn.yellowmessenger.com/2jRrcRy7493T1669699575687.png",
+                "title": "Branch platform-Prod",
+                "desc": "Production Branch platform"
+            },
+            {
+                "url": "https://hp.lipalaterapis.com/",
+                "logo": "https://cdn.yellowmessenger.com/2jRrcRy7493T1669699575687.png",
+                "title": "HQ platform-Prod",
+                "desc": "Production headquarters platform"
             }
         ]
     },
@@ -40,19 +83,80 @@
                 "logo": "https://uploads-ssl.webflow.com/622f09894fc230ad07de84a9/622f5a87c640c74632704784_Favicon_32.svg",
                 "title": "Results API",
                 "desc": "HyperVerge Results API"
+            },
+            {
+                "url": "https://docs.mono.co/docs/connect-widget",
+                "logo": "https://files.readme.io/5e10aa7-small-Mono-Favicon_Favicon_large.png",
+                "title": "Mono Connect Widget",
+                "desc": "Mono"
+            },
+            {
+                "url": "https://dbdiagram.io/d/62a06e6c54ce26352782ade1",
+                "logo": "./assets/images/db.svg",
+                "title": "CORE dbdiagram",
+                "desc": "dbdiagram"
+            },
+            {
+                "url": "https://dbdiagram.io/d/62a77f349921fe2a96f792f2",
+                "logo": "./assets/images/db.svg",
+                "title": "HUB dbdiagram",
+                "desc": "dbdiagram"
             }
         ]
     },
     {
-        "name": "UED团队",
-        "en_name": "UED Team",
-        "icon": "linecons-user",
+        "name": "开发",
+        "en_name": "Staging",
+        "icon": "linecons-pencil",
         "web": [
             {
-                "url": "https://airbnb.design",
-                "logo": "assets/images/logos/AirbnbDesign.png",
-                "title": "Airbnb Design",
-                "desc": "Airbnb Design"
+                "url": "https://jenkinsdev.lipalaterapis.com/",
+                "logo": "https://www.jenkins.io/favicon.ico",
+                "title": "Jenkins-dev",
+                "desc": "Staging jenkins"
+            },
+            {
+                "url": "https://nacosdev.lipalaterapis.com/nacos/",
+                "logo": "https://img.alicdn.com/tfs/TB1hgJpHAPoK1RjSZKbXXX1IXXa-64-64.png",
+                "title": "Nacos-dev",
+                "desc": "Staging Nacos"
+            },
+            {
+                "url": "https://dashboard.heroku.com/apps/core-v2-multi-country",
+                "logo": "https://www.herokucdn.com/favicons/favicon.ico",
+                "title": "Heroku",
+                "desc": "Heroku Core"
+            },
+            {
+                "url": "https://eu-central-1.console.aws.amazon.com/console/home?region=eu-central-1#",
+                "logo": "https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png",
+                "title": "AWS",
+                "desc": "AWS"
+            },
+            {
+                "url": "http://3.71.37.125:8081/",
+                "logo": "https://www.sonatype.com/hubfs/1-2023%20New%20Site%20Assets/SONA%20Logos/repository-logo.png",
+                "title": "Nexus",
+                "desc": "Nexus Repository Manager"
+            }
+        ]
+    },
+    {
+        "name": "生产",
+        "en_name": "Production",
+        "icon": "linecons-diamond",
+        "web": [
+            {
+                "url": "https://jenkins.lipalaterapis.com/",
+                "logo": "https://www.jenkins.io/favicon.ico",
+                "title": "Jenkins-Prod",
+                "desc": "Production jenkins"
+            },
+            {
+                "url": "https://nacos.lipalaterapis.com/nacos/",
+                "logo": "https://img.alicdn.com/tfs/TB1hgJpHAPoK1RjSZKbXXX1IXXa-64-64.png",
+                "title": "Nacos-Prod",
+                "desc": "Production Nacos"
             }
         ]
     }
