@@ -1,0 +1,47 @@
+[
+    {
+        "name": "常用",
+        "en_name": "Recommended",
+        "icon": "linecons-star",
+        "web": [
+            {
+                "url": "https://jenkinsdev.lipalaterapis.com/",
+                "logo": "https://www.jenkins.io/favicon.ico",
+                "title": "Jenkins-dev",
+                "desc": "Staging jenkins"
+            },
+            {
+                "url": "https://jenkins.lipalaterapis.com/",
+                "logo": "https://www.jenkins.io/favicon.ico",
+                "title": "Jenkins-Prod",
+                "desc": "Production jenkins"
+            }
+        ]
+    },
+    {
+        "name": "文档",
+        "en_name": "Documentation",
+        "icon": "linecons-doc",
+        "web": [
+            {
+                "url": "https://developer.hyperverge.co/africa/kyc/bvn-api",
+                "logo": "https://uploads-ssl.webflow.com/622f09894fc230ad07de84a9/622f5a87c640c74632704784_Favicon_32.svg",
+                "title": "BVN API",
+                "desc": "HyperVerge Bank Verification (BVN) API"
+            }
+        ]
+    },
+    {
+        "name": "UED团队",
+        "en_name": "UED Team",
+        "icon": "linecons-user",
+        "web": [
+            {
+                "url": "https://airbnb.design",
+                "logo": "assets/images/logos/AirbnbDesign.png",
+                "title": "Airbnb Design",
+                "desc": "Airbnb Design"
+            }
+        ]
+    }
+]
