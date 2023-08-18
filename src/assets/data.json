@@ -11,13 +11,13 @@
                 "desc": "Staging Musoni"
             },
             {
-                "url": "https://bpdev.lipalaterapis.com/",
+                "url": "https://bpdev.lipalater.com/",
                 "logo": "https://cdn.yellowmessenger.com/2jRrcRy7493T1669699575687.png",
                 "title": "Branch platform-Dev",
                 "desc": "Staging Branch platform"
             },
             {
-                "url": "https://hpdev.lipalaterapis.com/",
+                "url": "https://hpdev.lipalater.com/",
                 "logo": "https://cdn.yellowmessenger.com/2jRrcRy7493T1669699575687.png",
                 "title": "HQ platform-Dev",
                 "desc": "Staging headquarters platform"
@@ -48,13 +48,13 @@
                 "desc": "Production Musoni"
             },
             {
-                "url": "https://bp.lipalaterapis.com/",
+                "url": "https://bp.lipalater.com/",
                 "logo": "https://cdn.yellowmessenger.com/2jRrcRy7493T1669699575687.png",
                 "title": "Branch platform-Prod",
                 "desc": "Production Branch platform"
             },
             {
-                "url": "https://hp.lipalaterapis.com/",
+                "url": "https://hp.lipalater.com/",
                 "logo": "https://cdn.yellowmessenger.com/2jRrcRy7493T1669699575687.png",
                 "title": "HQ platform-Prod",
                 "desc": "Production headquarters platform"
@@ -110,13 +110,13 @@
         "icon": "linecons-pencil",
         "web": [
             {
-                "url": "https://jenkinsdev.lipalaterapis.com/",
+                "url": "https://jenkinsdev.lipalater.com/",
                 "logo": "https://www.jenkins.io/favicon.ico",
                 "title": "Jenkins-dev",
                 "desc": "Staging jenkins"
             },
             {
-                "url": "https://nacosdev.lipalaterapis.com/nacos/",
+                "url": "https://nacosdev.lipalater.com/nacos/",
                 "logo": "https://img.alicdn.com/tfs/TB1hgJpHAPoK1RjSZKbXXX1IXXa-64-64.png",
                 "title": "Nacos-dev",
                 "desc": "Staging Nacos"
@@ -147,19 +147,19 @@
         "icon": "linecons-diamond",
         "web": [
             {
-                "url": "https://jenkins.lipalaterapis.com/",
+                "url": "https://jenkins.lipalater.com/",
                 "logo": "https://www.jenkins.io/favicon.ico",
                 "title": "Jenkins-Prod",
                 "desc": "Production jenkins"
             },
             {
-                "url": "https://nacos.lipalaterapis.com/nacos/",
+                "url": "https://nacos.lipalater.com/nacos/",
                 "logo": "https://img.alicdn.com/tfs/TB1hgJpHAPoK1RjSZKbXXX1IXXa-64-64.png",
                 "title": "Nacos-Prod",
                 "desc": "Production Nacos"
             },
             {
-                "url": "https://grafana.lipalaterapis.com/",
+                "url": "https://log.lipalater.com/",
                 "logo": "https://grafana.com/static/img/menu/grafana2.svg",
                 "title": "Grafana-Prod",
                 "desc": "Production Grafana"
