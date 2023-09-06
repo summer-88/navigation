@@ -101,6 +101,12 @@
                 "logo": "./assets/images/db.svg",
                 "title": "HUB dbdiagram",
                 "desc": "dbdiagram"
+            },
+            {
+                "url": "https://developer.musoniservices.com/demo/",
+                "logo": "./assets/images/db.svg",
+                "title": "Musoni REST API",
+                "desc": "Musoni REST API"
             }
         ]
     },
