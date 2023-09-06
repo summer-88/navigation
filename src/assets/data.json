@@ -104,9 +104,15 @@
             },
             {
                 "url": "https://developer.musoniservices.com/demo/",
-                "logo": "./assets/images/db.svg",
+                "logo": "https://musonisystem.com/wp-content/uploads/2020/05/logo_footer.svg",
                 "title": "Musoni REST API",
-                "desc": "Musoni REST API"
+                "desc": "Musoni REST API Documentation"
+            },
+            {
+                "url": "https://developer.musoniservices.com/demo/legacy/",
+                "logo": "https://musonisystem.com/wp-content/uploads/2020/05/logo_footer.svg",
+                "title": "Musoni Legacy API",
+                "desc": "Musoni Legacy API Documentation"
             }
         ]
     },
